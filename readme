@@ -1,0 +1,12 @@
+I want to make a class based version of my f0 analysis code, just for some practice with classes
+
+fits.h is the definition of classes to be used
+fits.cpp creates the methods for the classes
+
+
+I should make the class such that I can call a function that only takes the histograms 
+and a number as an argument, and produces all the plots from there
+
+12/24/2017
+fits.h and fits.cpp are depricated.
+using primary.h and primary.cpp as the main analysis class
